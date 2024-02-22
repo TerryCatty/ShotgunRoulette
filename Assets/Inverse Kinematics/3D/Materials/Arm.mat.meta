@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16630cbf543d03d42b4dde7d0d66b32a
+timeCreated: 1499788733
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 1829
+  packageName: Inverse Kinematics
+  packageVersion: 1.31
+  assetPath: Assets/Inverse Kinematics/3D/Materials/Arm.mat
+  uploadId: 189384

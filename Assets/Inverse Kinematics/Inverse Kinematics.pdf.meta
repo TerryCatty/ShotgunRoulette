@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed8ab5107299d0b4f9fcfabb717aee5c
+timeCreated: 1499813316
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 1829
+  packageName: Inverse Kinematics
+  packageVersion: 1.31
+  assetPath: Assets/Inverse Kinematics/Inverse Kinematics.pdf
+  uploadId: 189384
